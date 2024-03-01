@@ -21,5 +21,11 @@
 
 ## Certifications
 
-- Certification 1
-- Certification 2
+| Date    | Certification |
+| --------- | ----------- |
+| 2023-12-20 | [Foundations - Data, Data, Everywhere](https://coursera.org/share/aa82dac3b850bceeddd6179e2b6361f5) |
+| 2023-08-29 | [How to speak to anyone](https://coursera.org/share/aa82dac3b850bceeddd6179e2b6361f5) |
+| 2023-08-29 | [Code Your First Game - Arcade Classic in JavaScript on Canvas](https://www.udemy.com/certificate/UC-4c6a1b4e-3319-4762-88db-9b3645deb588/) |
+| 2023-08-18 | [The Complete ASP.NET MVC 5 Course](https://www.udemy.com/certificate/UC-3c404477-cd9a-45fe-8dd0-370207517825/) |
+| 2023-04-27 | [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/Q942562JWTBB) |
+| 2021-07-28 | [Pearson Test in English](https://mypte.pearsonpte.com/my-activity/test-score/60d9d7bba343add61f1d256e) |
