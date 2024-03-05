@@ -4,7 +4,7 @@
 
 | Project    | Badges |
 | --------- | ----------- |
-|     |    |
+| [Kaggle: Titanic - Machine Learning from Disaster](https://www.kaggle.com/code/alvinpatron/getting-started-with-titanic/) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
 
 ## Personal Projects
 
@@ -21,7 +21,7 @@
 | [PostgreSQL](https://github.com/doccerz/postgresql-toolbox) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 | [Microsoft SQL Server](https://github.com/doccerz/mssql-toolbox) | ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) |
 | [Linux](https://github.com/doccerz/linux-toolbox) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| [Oracle](https://github.com/doccerz/oracle-plsql-toolbox) | [Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
+| [Oracle](https://github.com/doccerz/oracle-plsql-toolbox) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
 
 ## Web
 
