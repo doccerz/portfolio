@@ -6,7 +6,6 @@
 | --------- | ----------- |
 |     |    |
 
-
 ## Personal Projects
 
 | Project    | Badges |
@@ -17,7 +16,18 @@
 
 | Toolbox    | Badges |
 | --------- | ----------- |
-|     |    |
+| [Powershell](https://github.com/doccerz/powershell-toolbox) | ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) |
+| [Git](https://github.com/doccerz/git-toolbox) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| [PostgreSQL](https://github.com/doccerz/postgresql-toolbox) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| [Microsoft SQL Server](https://github.com/doccerz/mssql-toolbox) | ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) |
+| [Linux](https://github.com/doccerz/linux-toolbox) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| [Oracle](https://github.com/doccerz/oracle-plsql-toolbox) | [Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
+
+## Web
+
+- [LeetCode](https://leetcode.com/doccerz/)
+- [Kaggle](https://leetcode.com/doccerz/)
+
 
 ## Certifications
 
@@ -29,3 +39,4 @@
 | 2023-08-18 | [The Complete ASP.NET MVC 5 Course](https://www.udemy.com/certificate/UC-3c404477-cd9a-45fe-8dd0-370207517825/) |
 | 2023-04-27 | [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/Q942562JWTBB) |
 | 2021-07-28 | [Pearson Test in English](https://mypte.pearsonpte.com/my-activity/test-score/60d9d7bba343add61f1d256e) |
+
